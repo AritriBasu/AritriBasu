@@ -1,14 +1,15 @@
 # Hey there, I'm <span style="color:lightblue;">Aritri ! </span> ʕ•́ᴥ•̀ʔっ
 
+<br>
+
 * Currently pursuing Btech at VIT Vellore 🎓
 * Web developer 👩🏽‍💻
 * Working on full stack projects, hackathons
 * An awkward potato living the awkward potato life ᕙ(^▿^-ᕙ)
 
 <br>
-
-![Aritri's github stats](https://github-readme-stats.vercel.app/api?username=AritriBasu)
-
+ 
+![Aritri's github stats](https://github-readme-stats.vercel.app/api?username=AritriBasu&show_icons=true&theme=tokyonight)
 
 ## Languages and tools
 
